@@ -1,0 +1,81 @@
+const todos = [
+  {
+    text: "One more todo demo record 478.",
+    state: "in-process",
+    dateCreated: "2021-01-10T15:46:29.984Z",
+    dateCompleted: null,
+    id: 56,
+  },
+  {
+    text: "One more todo demo record 718.",
+    state: "done",
+    dateCreated: "2021-01-10T15:46:30.561Z",
+    dateCompleted: "2021-01-10T15:46:34.776Z",
+    id: 57,
+  },
+  {
+    text: "One more todo demo record 494.",
+    state: "in-process",
+    dateCreated: "2021-01-10T15:46:30.914Z",
+    dateCompleted: null,
+    id: 58,
+  },
+  {
+    text: "One more todo demo record 759.",
+    state: "in-process",
+    dateCreated: "2021-01-10T15:46:31.453Z",
+    dateCompleted: null,
+    id: 59,
+  },
+  {
+    text: "One more todo demo record 310.",
+    state: "done",
+    dateCreated: "2021-01-10T15:46:31.807Z",
+    dateCompleted: "2021-01-10T15:46:58.335Z",
+    id: 60,
+  },
+  {
+    text: "One more todo demo record 523.",
+    state: "done",
+    dateCreated: "2021-01-10T15:46:32.138Z",
+    dateCompleted: "2021-01-10T15:46:49.374Z",
+    id: 61,
+  },
+  {
+    text: "One more todo demo record 338.",
+    state: "done",
+    dateCreated: "2021-01-10T15:46:32.711Z",
+    dateCompleted: "2021-01-10T15:46:42.032Z",
+    id: 62,
+  },
+  {
+    text: "One more todo demo record 365.",
+    state: "done",
+    dateCreated: "2021-01-10T15:46:33.284Z",
+    dateCompleted: "2021-01-10T15:46:56.741Z",
+    id: 63,
+  },
+  {
+    text: "One more todo demo record 779.",
+    state: "done",
+    dateCreated: "2021-01-10T15:46:33.640Z",
+    dateCompleted: "2021-01-10T15:46:58.996Z",
+    id: 64,
+  },
+  {
+    text: "One more todo demo record 912.",
+    state: "in-process",
+    dateCreated: "2021-01-10T15:46:33.974Z",
+    dateCompleted: null,
+    id: 65,
+  },
+  {
+    text: "One more todo demo record 688.",
+    state: "done",
+    dateCreated: "2021-01-10T15:46:34.549Z",
+    dateCompleted: "2021-01-10T15:47:19.366Z",
+    id: 66,
+  },
+];
+
+export default todos;
