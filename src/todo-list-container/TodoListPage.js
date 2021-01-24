@@ -4,7 +4,7 @@ import EmptyList from "./TodoListItem/empty-list/emptylist";
 import TodoList from "./TodoListItem/todo-list/todolist";
 import todos from "../todo-storage/todos";
 
-const TodoListPage = (allTodo) => (
+const TodoListPage = () => (
   <div className="todo-list-container">
     <h1>My ToDos</h1>
     <h2>
